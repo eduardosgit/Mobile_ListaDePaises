@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bandeiras">
+        <item>@drawable/brasil</item>
+        <item>@drawable/bangladesh</item>
+        <item>@drawable/china</item>
+        <item>@drawable/eua</item>
+        <item>@drawable/india</item>
+        <item>@drawable/indonesia</item>
+        <item>@drawable/japao</item>
+        <item>@drawable/nigeria</item>
+        <item>@drawable/paquistao</item>
+        <item>@drawable/russia</item>
+    </array>
+</resources>
